@@ -1,0 +1,6 @@
+[submodule "jquery-snippets"]
+	path = jquery-snippets
+	url = git@github.com:juanpicado/sublime-jquery-snippets.git
+[submodule "dojo-snippets"]
+	path = dojo-snippets
+	url = git@github.com:juanpicado/dojo-sublime2-snippets.git
